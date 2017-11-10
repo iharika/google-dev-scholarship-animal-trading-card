@@ -1,0 +1,51 @@
+/* add your CSS here */
+
+.image {
+  /*display: block;
+  margin: auto;*/
+  max-width: 385px  ;
+  height: auto;
+  padding-left: 10px;
+  padding-right: 10px;
+
+}
+
+h3 {
+  font-size: 30px;
+  padding-left: 10px;
+  margin-top: 15px;
+  margin-bottom: 25px;
+
+}
+
+body {
+  border-style: solid;
+  border-width: thin;
+  border-spacing: 10px;
+  padding: 10px;
+  border-color: #a6a9ad;
+  box-shadow: 10px 10px 5px #a6a9ad;
+  margin: 30px;
+
+}
+
+ul {
+    list-style: none; /* Remove list bullets */
+    padding: 0;
+    margin: 0;
+}
+
+.description {
+  padding: 10px;
+  border-style: solid;
+  border-width: thin;
+  border-spacing: 50px;
+  margin: 10px;
+  border-color: #a6a9ad;
+
+
+}
+
+span {
+font-weight: bold;
+}
