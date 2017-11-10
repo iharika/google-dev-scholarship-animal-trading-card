@@ -26,6 +26,7 @@ body {
   border-color: #a6a9ad;
   box-shadow: 10px 10px 5px #a6a9ad;
   margin: 30px;
+  max-width: 410px;
 
 }
 
